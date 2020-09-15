@@ -1,2 +1,2 @@
 # scripts
-scripts I find useful
+Scripts I find useful.
