@@ -1,4 +1,7 @@
-#! /usr/bin/perl 
+#! /usr/bin/perl
+# Matthew Teasdale
+# Cambridge 2020
+
 use warnings;
 use strict;
 

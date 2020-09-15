@@ -1,4 +1,6 @@
 #! /usr/bin/env bash 
+# Matthew Teasdale
+# Cambridge 2020
 
 # set globals
 BAM_FILE=$1

@@ -1,4 +1,6 @@
 #! /usr/bin/env bash
+# Matthew Teasdale
+# Cambridge 2020
 
 while read line
 do
