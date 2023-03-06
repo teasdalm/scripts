@@ -20,6 +20,7 @@ AdapterRemoval \
 	--trimns \
 	--trimqualities \
 	--collapse  \
+	--preserve5p \
 	--output1 $FASTQ_FILE"_trimmed_R1.fastq.gz" \
 	--output2 $FASTQ_FILE"_trimmed_R2.fastq.gz" \
 	--outputcollapsedtruncated $FASTQ_FILE"_truncated.fastq.gz" \
