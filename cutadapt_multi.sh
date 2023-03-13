@@ -11,5 +11,5 @@ do
 	--overlap=1 \
 	--minimum-length=30 \
 	--adapter=AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC \
-	--output=$full $line
+	--output=$full $line 2> $base"_cutadapt.log"
 done
