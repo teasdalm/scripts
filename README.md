@@ -1,2 +1,2 @@
 # scripts
-Scripts I find useful.
+A collection of untility scripts
